@@ -1,3 +1,7 @@
 Hello World!
 
 This is a new line
+
+hi there \n
+
+checking out how to stash changes
